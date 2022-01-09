@@ -9,3 +9,6 @@ We must run twice. In the shared folder (server) and in the client folder (Clien
 npm start - start of the client
 npm run dev (nodemon server.js) - start of the server
 
+![alt text](https://github.com/yair-roshal/mern-login/blob/master/0%20img%20readme%20github/2022-01-09_143104.png?raw=true)
+
+ 
