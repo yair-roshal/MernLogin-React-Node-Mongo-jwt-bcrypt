@@ -10,5 +10,8 @@ npm start - start of the client
 npm run dev (nodemon server.js) - start of the server
 
 ![alt text](https://github.com/yair-roshal/mern-login/blob/master/0%20img%20readme%20github/2022-01-09_143104.png?raw=true)
+![alt text](https://github.com/yair-roshal/mern-login/blob/master/0%20img%20readme%20github/2022-01-09_143203.png?raw=true)
+![alt text](https://github.com/yair-roshal/mern-login/blob/master/0%20img%20readme%20github/2022-01-09_143211.png?raw=true)
+![alt text](https://github.com/yair-roshal/mern-login/blob/master/0%20img%20readme%20github/2022-01-09_143243.png?raw=true)
 
  
