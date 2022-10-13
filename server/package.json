@@ -1,5 +1,5 @@
 {
-  "name": "mern-login",
+  "name": "mern-login-server",
   "version": "1.0.0",
   "description": "nodejs login with jwt token",
   "main": "server.js",
@@ -7,7 +7,7 @@
      "start": "nodemon server.js"
    },
 
-  "author": "Yair Roshal mern-login-server",
+  "author": "Yair Roshal",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
