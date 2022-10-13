@@ -1,5 +1,5 @@
 {
-  "name": "mern-login-server",
+  "name": "server",
   "version": "1.0.0",
   "description": "nodejs login with jwt token",
   "main": "server.js",
