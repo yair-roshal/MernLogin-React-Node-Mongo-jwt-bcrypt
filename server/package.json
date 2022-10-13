@@ -4,16 +4,9 @@
   "description": "nodejs login with jwt token",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js",
-    "dev": "nodemon server.js",
-    "start": "node server.js"
-  },
-  "keywords": [
-    "nodejs",
-    "jwt",
-    "passport",
-    "express"
-  ],
+     "start": "nodemon server.js"
+   },
+
   "author": "Yair Roshal mern-login-server",
   "license": "ISC",
   "dependencies": {
@@ -27,6 +20,5 @@
     "nodemon": "^2.0.15",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
-  },
-  "devDependencies": {}
-}
+  }
+ }
