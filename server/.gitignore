@@ -1,0 +1,7 @@
+№ Ыуу реезыЖ..рудзюпшергиюсщь.фкешсдуы.шптщкштп-ашдуы. ащк ьщку фищге шптщкштп ашдуыю
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/000_backup
+.history/
