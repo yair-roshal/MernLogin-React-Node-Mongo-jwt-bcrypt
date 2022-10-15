@@ -1,7 +1,9 @@
 const express = require('express')
 const users = express.Router()
 const cors = require('cors')
+//JSON Web Token is an open standard for creating access tokens based on the JSON format. It is typically used to transfer data for authentication in client-server applications.
 const jwt = require('jsonwebtoken')
+//bcrypt is an adaptive cryptographic key formation hash function used for the secure storage of passwords
 const bcrypt = require('bcrypt')
 
 const User = require('../models/User')
