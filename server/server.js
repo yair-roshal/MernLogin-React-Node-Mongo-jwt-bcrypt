@@ -26,7 +26,6 @@ mongoose
 	.catch(err => console.log(err))
 
 var Users = require('./routes/Users')
-
 app.use('/users', Users)
 
 app.listen(port, () => {
